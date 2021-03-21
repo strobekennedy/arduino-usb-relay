@@ -1,2 +1,2 @@
-# arduino_usb_relay
+# Arduino USB Relay
 An arduino usb relay control
